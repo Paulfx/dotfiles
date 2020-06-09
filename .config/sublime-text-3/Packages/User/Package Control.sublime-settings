@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Color Scheme - Sleeplessmind",
+		"DoxyDoxygen",
+		"EasyClangComplete",
+		"Git blame",
+		"MarkdownLivePreview",
+		"OpenGL Shading Language (GLSL)",
+		"Package Control",
+		"Solarized Color Scheme",
+		"Theme - Monokai Pro",
+		"Theme - Soda SolarizedDark",
+		"Theme - Tech49",
+		"VIM Navigation",
+		"Vimprov"
+	]
+}

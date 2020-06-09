@@ -1,0 +1,11 @@
+{
+	"common_flags" : [
+    // some example includes
+    //"-I/home/lfxpaul/dev/vtk/*",
+    // "-I/home/lfxpaul/dev/vtk/*/*",
+    // "-I/home/lfxpaul/dev/vtk/*/*/*",
+    // "-I/home/lfxpaul/dev/vtk/*/*/*/*",
+    "-I$project_path/build",
+    "-I$project_path",
+  ],
+}
