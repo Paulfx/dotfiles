@@ -1,0 +1,10 @@
+[core]
+	excludesfile = /home/lfxpaul/.gitignore_global
+[user]
+	email = paul.lafoix@kitware.com
+	name = Paul Lafoix
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
