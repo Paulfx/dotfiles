@@ -6,7 +6,8 @@
 - nitrogen (wallpapers)
 - i3-dmenu-desktop
 - Network manager + nm-applet
-- vim vundle 
+- vim vundle, YCM
+- exuberant-ctags
 
 
 - imagemagick
