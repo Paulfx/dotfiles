@@ -18,3 +18,4 @@
 - sublime text
 - apitrace
 
+firefox : dark reader
