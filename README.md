@@ -8,6 +8,7 @@
 - Network manager + nm-applet
 - vim vundle, YCM
 - exuberant-ctags
+- fonts : ttf-awesome-font, siji-git (AUR)
 
 
 - imagemagick
