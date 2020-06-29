@@ -19,3 +19,5 @@
 - apitrace
 
 firefox : dark reader
+compositor
+latex editor : gummi
