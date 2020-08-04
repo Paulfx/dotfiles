@@ -21,3 +21,7 @@
 firefox : dark reader
 compositor
 latex editor : gummi
+
+# How to use it
+
+https://www.atlassian.com/git/tutorials/dotfiles
