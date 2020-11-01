@@ -1,8 +1,9 @@
 {
 	"color_scheme": "Monokai Pro (Filter Spectrum).sublime-color-scheme",
-	"font_size": 9,
+	"font_size": 10,
 	"ignored_packages":
 	[
+		"EasyClangComplete",
 		"Vintage"
 	],
 	"theme": "Monokai Pro (Filter Spectrum).sublime-theme"

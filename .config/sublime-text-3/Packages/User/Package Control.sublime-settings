@@ -9,6 +9,7 @@
 		"DoxyDoxygen",
 		"EasyClangComplete",
 		"Git blame",
+		"LSP",
 		"MarkdownLivePreview",
 		"OpenGL Shading Language (GLSL)",
 		"Package Control",
