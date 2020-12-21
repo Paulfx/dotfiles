@@ -9,7 +9,7 @@
 #
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
-set $mod Mod1
+set $mod Mod4
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
@@ -35,6 +35,9 @@ exec --no-startup-id nitrogen --restore
 
 # Polybar
 exec_always --no-startup-id ~/.config/i3/polybar.sh &
+
+# Picom
+#exec --no-startup-id picom --config ~/.config/picom/picom.conf
 
 # Use pactl to adjust volume in PulseAudio.
 set $refresh_i3status killall -SIGUSR1 i3status
@@ -210,6 +213,13 @@ for_window [class="^paraview"] floating enable
 for_window [class="^gimp"] floating enable
 for_window [class="^Gimp"] floating enable
 
+for_window [class="^joplin"] floating enable
+for_window [class="^joplin"] resize set 300 780
+
+
+for_window [class="^htop"] floating enable
+for_window [class="^htop"] resize set 300 780
+
 #floating_minimum_size 1000 x 600
 
 # Custom keybindings
@@ -218,4 +228,7 @@ bindsym $mod+Ctrl+f exec --no-startup-id firefox
 bindsym $mod+Ctrl+s exec --no-startup-id subl
 bindsym $mod+Ctrl+r exec --no-startup-id kitty -e ranger
 bindsym --release Print exec --no-startup-id import ~/screenshot/$(date '+%H_%M_%S-%d_%m').png
+bindsym $mod+t			exec waitFocusForFloating joplin; grab focus; floating enable
+bindsym $mod+y			exec waitFocusForFloating "htop"; grab focus; floating enable
+
 

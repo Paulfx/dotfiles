@@ -110,6 +110,19 @@ alias lg='git log'
 alias com='git commit -m'
 alias st='git status'
 
+# LSP
+lsp() {
+	compdb -p "$1" list > compile_commands.json
+}
+
+# Git worktree
+gwk() {
+	git worktree add ../"$1"/"$1" "$1";
+	cd ../"$1";
+	mkdir build;
+	cd build;
+}
+
 # Config files
 alias xinitrc='vim ~/.xinitrc'
 alias vimrc='vim ~/.vimrc'
@@ -122,7 +135,7 @@ alias lightdmcfg="vim /etc/lightdm/lightdm.conf"
 alias rangercfg='vim ~.config/ranger/rc.conf'
 alias giglobal='vim ~/.gitignore_global'
 #dotfiles
-alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
 
 # Directories
 alias home='cd ~'
@@ -132,5 +145,5 @@ alias ..='cd ..'
 export GREP_OPTIONS=' --color=auto'
 export EDITOR=vim
 
-export PATH=~/bin:$PATH
+export PATH=~/bin:/home/lfxpaul/.local/bin:$PATH
 export TERM=kitty
