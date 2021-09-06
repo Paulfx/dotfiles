@@ -201,14 +201,14 @@ assign [class="^sublime-text"] $ws5
 
 for_window [class="^.*"] border pixel 1
 
-for_window [class="Vtk"] floating enable
-for_window [class="Vtk"] move position center
+for_window [class="(V|v)tk"] floating enable
+for_window [class="(v|V)tk"] move position center
 
 for_window [class="Sxiv"] floating enable
 for_window [class="Mupdf"] floating enable
 
-for_window [class="^ParaView"] floating enable
-for_window [class="^paraview"] floating enable
+for_window [class="ParaView"] floating enable
+for_window [class="paraview"] floating enable
 
 for_window [class="^gimp"] floating enable
 for_window [class="^Gimp"] floating enable
