@@ -109,6 +109,7 @@ alias clone='git clone'
 alias lg='git log'
 alias com='git commit -m'
 alias st='git status'
+alias grc='git rebase --continue'
 
 # LSP
 lsp() {
@@ -116,11 +117,68 @@ lsp() {
 }
 
 # Git worktree
+# Go in ~/dev/vtk and type gwk BRANCH_NAME
 gwk() {
-	git worktree add ../"$1"/"$1" "$1";
-	cd ../"$1";
-	mkdir build;
-	cd build;
+	mkdir ../"$1" &&
+	git worktree add ../"$1"/"$1" &&
+	cd ../"$1" &&
+	mkdir build &&
+	cd build &&
+	cmake ../"$1" -GNinja && ninja
+}
+
+# List already checked out branch + submodule VTK
+gitPV() {
+	pathPwd=$(pwd);
+	cd /home/lfxpaul/dev/pv1/paraview; echo -n "pv1 ("$(git describe --tags --abbrev=0)") =>" $(git branch --show-current);
+			cd VTK; vtkBranch=" ["$(git branch --show-current)"]"; echo $vtkBranch;
+	cd /home/lfxpaul/dev/pv2/paraview; echo -n "pv2 ("$(git describe --tags --abbrev=0)") =>" $(git branch --show-current);
+			cd VTK; vtkBranch=" ["$(git branch --show-current)"]"; echo $vtkBranch;
+	cd /home/lfxpaul/dev/pv3/paraview; echo -n "pv3 ("$(git describe --tags --abbrev=0)") =>" $(git branch --show-current);
+			cd VTK; vtkBranch=" ["$(git branch --show-current)"]"; echo $vtkBranch;
+	cd /home/lfxpaul/dev/pv4/paraview; echo -n "pv4 ("$(git describe --tags --abbrev=0)") =>" $(git branch --show-current);
+			cd VTK; vtkBranch=" ["$(git branch --show-current)"]"; echo $vtkBranch;
+	cd $pathPwd;
+}
+
+# List already checked out branch
+gitVTK() {
+	pathPwd=$(pwd);
+	cd /home/lfxpaul/dev/vtk/vtk1/vtk; echo "vtk1 ("$(git describe --tags --abbrev=0)") =>" $(git branch --show-current);
+	cd /home/lfxpaul/dev/vtk/vtk2/vtk; echo "vtk2 ("$(git describe --tags --abbrev=0)") =>" $(git branch --show-current);
+	cd /home/lfxpaul/dev/vtk/vtk3/vtk; echo "vtk3 ("$(git describe --tags --abbrev=0)") =>" $(git branch --show-current);
+	cd /home/lfxpaul/dev/vtk/vtk82/vtk; echo "vtk82 ("$(git describe --tags --abbrev=0)") =>" $(git branch --show-current);
+	cd $pathPwd;
+}
+
+# Fetch a remote for all vtk dirs
+# $1 is the remote to fetch
+gfVTK_() {
+	pathPwd=$(pwd);
+	cd /home/lfxpaul/dev/vtk/vtk1/vtk; echo "vtk1: Fetching $1"; git fetch "$1";
+	cd /home/lfxpaul/dev/vtk/vtk2/vtk; echo "vtk2: Fetching $1"; git fetch "$1";
+	cd /home/lfxpaul/dev/vtk/vtk3/vtk; echo "vtk3: Fetching $1"; git fetch "$1";
+	cd /home/lfxpaul/dev/vtk/vtk82/vtk; echo "vtk82: Fetching $1"; git fetch "$1";
+	cd $pathPwd;
+}
+
+gfVTK() {
+	gfVTK_ gitlab;
+	gfVTK_ origin;
+}
+
+gfPV_() {
+	pathPwd=$(pwd);
+	cd /home/lfxpaul/dev/pv1/paraview; git fetch "$1";
+	cd /home/lfxpaul/dev/pv2/paraview; git fetch "$1";
+	cd /home/lfxpaul/dev/pv3/paraview; git fetch "$1";
+	cd /home/lfxpaul/dev/pv4/paraview; git fetch "$1";
+	cd $pathPwd;
+}
+
+gfPV() {
+	gfPV_ gitlab;
+	gfPV_ origin;
 }
 
 # Config files
@@ -141,6 +199,7 @@ alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
 alias home='cd ~'
 alias dwn='cd ~/Downloads'
 alias ..='cd ..'
+
 
 export GREP_OPTIONS=' --color=auto'
 export EDITOR=vim
