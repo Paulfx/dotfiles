@@ -8,3 +8,7 @@
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
 	required = true
+[alias]
+  onlymerges = "!sh -c 'echo \"Keeping only merge commits between \"$0\" and \"$1\"\"...; for rev in $(git rev-list \"$0\"..\"$1\" --merges --first-parent); do   git rev-list $rev^2 --not $rev^; done | xargs git bisect skip; echo Done'"
+  find-merge = "!sh -c 'commit=$0 && branch=${1:-HEAD} && (git rev-list $commit..$branch --ancestry-path | cat -n; git rev-list $commit..$branch --first-parent | cat -n) | sort -k2 -s | uniq -f1 -d | sort -n |  tail -1 | cut -f2'"
+  show-merge = "!sh -c 'merge=$(git find-merge $0 $1) && [ -n \"$merge\" ] && git show $merge'"
