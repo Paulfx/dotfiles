@@ -5,11 +5,16 @@
 	],
 	"installed_packages":
 	[
+		"BracketHighlighter",
+		"CMakeEditor",
 		"Color Scheme - Sleeplessmind",
+		"CUDA C++",
 		"DoxyDoxygen",
 		"EasyClangComplete",
 		"Git blame",
 		"LSP",
+		"Markdown HTML Preview",
+		"MarkdownEditing",
 		"MarkdownLivePreview",
 		"OpenGL Shading Language (GLSL)",
 		"Package Control",

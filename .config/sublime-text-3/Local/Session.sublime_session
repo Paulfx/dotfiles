@@ -1,0 +1,2076 @@
+{
+	"folder_history":
+	[
+		"/home/lfxpaul/dev/pv4/paraview",
+		"/home/lfxpaul/dev/pv2/paraview",
+		"/home/lfxpaul/Downloads/ParametricSurfaces",
+		"/home/lfxpaul/dev/pv1/paraview",
+		"/home/lfxpaul/dev/vtk/vtk3/vtk",
+		"/home/lfxpaul/dev/vtk/vtk1/vtk",
+		"/home/lfxpaul/dev/vtk/vtk2/vtk",
+		"/home/lfxpaul/dev/vtk/vtk82/vtk",
+		"/home/lfxpaul/dev/pv4/paraview/VTK",
+		"/home/lfxpaul/dev/pv3/paraview",
+		"/home/lfxpaul",
+		"/home/lfxpaul/dev/data/PBR/devExamples/clearCoat",
+		"/home/lfxpaul/dev/data/models",
+		"/home/lfxpaul/Downloads/ceos-systeme",
+		"/home/lfxpaul/pro/KEUFirewall-UDP4-1194-paul.lafoix",
+		"/home/lfxpaul/dev/AR/pluraview",
+		"/home/lfxpaul/Downloads/Shadows",
+		"/home/lfxpaul/dev/data/models/motorBike",
+		"/home/lfxpaul/perso/dev",
+		"/home/lfxpaul/perso/dev/ResultTP2",
+		"/home/lfxpaul/dev/notes",
+		"/home/lfxpaul/dev/data/audi/transluency",
+		"/home/lfxpaul/dev/data/audi/surface_lic_test_5.9.0",
+		"/home/lfxpaul/dev/pv1"
+	],
+	"last_version": 3211,
+	"last_window_id": 60,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Rende",
+						"RenderWidget"
+					],
+					[
+						"Upd",
+						"UpdatePropertyInformation(…)\t  [2 overloads]"
+					],
+					[
+						"Update",
+						"UpdateVTKObjects()\t  void"
+					],
+					[
+						"vi",
+						"isVisible() const\t  bool"
+					],
+					[
+						"update",
+						"updateEnabledState()\t  void"
+					],
+					[
+						"pqMulti",
+						"pqMultiBlockInspectorWidget\t  Class"
+					],
+					[
+						"rend",
+						"renderViewEventually()\t  void"
+					],
+					[
+						"pqMul",
+						"pqMultiBlockInspectorWidget\t  Class"
+					],
+					[
+						"Q_S",
+						"Q_SIGNALS\t  Text"
+					],
+					[
+						"repr",
+						"pqDataRepresentation\t  Class"
+					],
+					[
+						"repre",
+						"representationChanged"
+					],
+					[
+						"vtkSMP",
+						"vtkSMPropertyHelper"
+					],
+					[
+						"visi",
+						"visibleDataBounds2\t  double [6]"
+					],
+					[
+						"GetVisi",
+						"GetVisibleDataBounds()\t  double *"
+					],
+					[
+						"Compute",
+						"ComputeVisibleDataBounds"
+					],
+					[
+						"vtkGeom",
+						"vtkGeometryRepresentation.h\"\t  File"
+					],
+					[
+						"vtkPVCom",
+						"vtkPVCompositeRepresentation.h\"\t  File"
+					],
+					[
+						"GetName",
+						"GetXMLName()\t  char *"
+					],
+					[
+						"vtkSMProper",
+						"vtkSMPropertyHelper\t  Class"
+					],
+					[
+						"GetREp",
+						"getRepresentation(int index) const\t  pqRepresentation *"
+					],
+					[
+						"getNum",
+						"getNumberOfOutputPorts() const\t  int"
+					],
+					[
+						"GetRe",
+						"getRepresentations(…)\t  [2 overloads]"
+					],
+					[
+						"getRep",
+						"getNumberOfVisibleRepresentations() const\t  int"
+					],
+					[
+						"Remo",
+						"RemoveAllVariables"
+					],
+					[
+						"index",
+						"QModelIndexList"
+					],
+					[
+						"pqCam",
+						"pqCameraToolbar\t  Class"
+					],
+					[
+						"gfV",
+						"gfVTK_"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"wo",
+						"Word Wrap: Toggle"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"wor",
+						"Word Wrap: Toggle"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"syntax mark",
+						"Set Syntax: MultiMarkdown"
+					],
+					[
+						"mar",
+						"Set Syntax: Markdown"
+					],
+					[
+						"color",
+						"MarkdownEditing: Change color scheme..."
+					],
+					[
+						"w",
+						"Word Wrap: Toggle"
+					],
+					[
+						"synta",
+						"Set Syntax: C++"
+					],
+					[
+						"close",
+						"File: Close All"
+					],
+					[
+						"bla",
+						"Git Blame: Show All"
+					],
+					[
+						"blam",
+						"Git Blame: Show"
+					],
+					[
+						"markdow sy",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"markdown sy",
+						"Set Syntax: Markdown"
+					],
+					[
+						"markdown",
+						"MarkdownEditing: Open Journal"
+					],
+					[
+						"syntax mar",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/vtkSMMaterialLibraryProxy.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Core/pqDataRepresentation.h",
+				"/home/lfxpaul/dev/pv1/paraview/Clients/ParaView/Testing/XML/MultiBlockInspector.xml",
+				"/home/lfxpaul/dev/pv1/paraview/Examples/Catalyst2/CxxMultimesh/catalyst_pipeline.py",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/vtkGeometryRepresentation.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Core/vtkPVDataInformation.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/vtkGeometryRepresentation.h",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/vtkSMPVRepresentationProxy.h",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/vtkSMRepresentationProxy.h",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/vtkSMRepresentationProxy.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/vtkPVDataRepresentation.h",
+				"/home/lfxpaul/dev/pv1/paraview/Plugins/EmbossingRepresentations/Representations/vtkBumpMapRepresentation.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/vtkSMChartSeriesSelectionDomain.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Plugins/LagrangianParticleTracker/pqIntegrationModelSurfaceHelperWidget.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Core/vtkPVDataInformation.h",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/ServerManager/vtkSMProxy.h",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Components/pqDataInformationModel.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/ApplicationComponents/pqApplyBehavior.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Core/pqServer.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Components/pqProxyInformationWidget.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Components/pqProxyInformationWidget.h",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Rendering/RayTracing/Testing/Cxx/TestCategoricalMultiBlock.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/Resources/views_and_representations.xml",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/vtkPVCompositeRepresentation.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/vtkCompositeRepresentation.h",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/vtkCompositeRepresentation.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/ApplicationComponents/pqMaterialAttributesDelegate.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/ServerManager/vtkSMPropertyHelper.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/ServerManager/vtkSMPropertyHelper.h",
+				"/tmp/mozilla_lfxpaul0/vtkSPOSFix.txx",
+				"/home/lfxpaul/dev/pv1/paraview/Clients/ParaView/Testing/XML/MultiBlockInspectorSelection.xml",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Interaction/Widgets/Testing/Cxx/TestCameraWidget.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Core/pqPipelineSource.h",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Core/pqPipelineSource.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/ServerManager/vtkSMSourceProxy.h",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Rendering/Core/vtkCompositePolyDataMapper.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Rendering/OpenGL2/vtkCompositePolyDataMapper2.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Common/DataModel/vtkCompositeDataSet.h",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Rendering/Core/vtkCompositeDataDisplayAttributes.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Rendering/Core/vtkCompositeDataDisplayAttributes.h",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Common/ExecutionModel/vtkAlgorithm.h",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Common/ExecutionModel/vtkAlgorithmOutput.h",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Rendering/OpenGL2/vtkCompositePolyDataMapper2.h",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Components/Resources/UI/pqMultiBlockInspectorWidget.ui",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Components/pqMultiBlockInspectorWidget.h",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Components/pqMultiBlockInspectorWidget.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Components/pqDataAssemblyTreeModel.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Components/pqDataAssemblyTreeModel.h",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/ApplicationComponents/pqDataAssemblyPropertyWidget.h",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Components/pqProxyWidget.h",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Components/pqProxyWidget.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/ServerManager/vtkSMPropertyIterator.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/ServerManager/vtkSMPropertyIterator.h",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Core/pqRepresentation.h",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/ApplicationComponents/pqCameraToolbar.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Core/pqRepresentation.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Views/Core/vtkView.h",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Views/Core/vtkDataRepresentation.h",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Core/pqView.cxx",
+				"/home/lfxpaul/dev/notes/CEA.md",
+				"/home/lfxpaul/dev/pv3/paraview/VTK/Common/ExecutionModel/vtkStreamingDemandDrivenPipeline.cxx",
+				"/home/lfxpaul/dev/pv3/paraview/VTK/Common/ExecutionModel/vtkStreamingDemandDrivenPipeline.h",
+				"/home/lfxpaul/dev/pv3/paraview/Qt/Widgets/pqLineEdit.h",
+				"/home/lfxpaul/dev/pv3/paraview/VTK/Interaction/Widgets/Testing/Cxx/TestResliceCursorWidget3.cxx",
+				"/home/lfxpaul/dev/pv3/paraview/VTK/Rendering/RayTracing/Testing/Cxx/TestOSPRayStereo.cxx",
+				"/home/lfxpaul/dev/pv3/paraview/VTK/Rendering/OpenGL2/vtkOpenGLRenderWindow.cxx",
+				"/home/lfxpaul/dev/pv3/paraview/VTK/Rendering/Core/vtkRenderWindow.cxx",
+				"/home/lfxpaul/dev/pv3/paraview/Remoting/ServerManager/vtkSMBoundsDomain.h",
+				"/home/lfxpaul/dev/pv3/paraview/VTK/Common/Core/vtkInformationKey.h",
+				"/home/lfxpaul/dev/pv3/paraview/VTK/Common/ExecutionModel/vtkAlgorithm.h",
+				"/home/lfxpaul/dev/pv3/paraview/VTK/Common/ExecutionModel/vtkAlgorithm.cxx",
+				"/home/lfxpaul/dev/pv3/paraview/Clients/ParaView/Testing/Python/TestStereoSaveScreenshot.py",
+				"/home/lfxpaul/dev/pv3/paraview/VTK/Rendering/Core/vtkStereoCompositor.h",
+				"/home/lfxpaul/dev/pv3/paraview/Qt/Components/pqDoubleVectorPropertyWidget.cxx",
+				"/home/lfxpaul/dev/pv3/paraview/Remoting/Views/vtkSMMaterialProxy.cxx",
+				"/home/lfxpaul/dev/pv3/paraview/Remoting/Views/vtkSMMaterialProxy.h",
+				"/home/lfxpaul/dev/data/pbr/dirToAngle.py",
+				"/home/lfxpaul/dev/notes/zSpace/HomePage.md"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 135.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"pqcompareview",
+					"updateCurrentMaterial",
+					"updateCurrentMaterialWithIndex",
+					"updateCurrentMaterial",
+					"materialLibrary",
+					"MaterialName",
+					"setMaterialName",
+					"materialProxyChanged",
+					"updateCurrentMaterial",
+					"NeedRender",
+					"materialLibrary",
+					"MaterialLibrary",
+					"materiallibrary",
+					"materialLibrary",
+					"materialLibraryProxy",
+					"materialLibrary",
+					"SetMaterialLibrary",
+					"vtkOSPRayRendererNode::MATERIAL_LIBRARY()",
+					"OSPRayPass",
+					"Renderer",
+					"Shader",
+					"render",
+					"Render"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 50.0
+			},
+			"menu_visible": true,
+			"output.diagnostics":
+			{
+				"height": 185.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"vtkOsprayRender",
+						"VTK/Rendering/RayTracing/vtkOSPRayRendererNode.cxx"
+					],
+					[
+						"TestOsprayP",
+						"VTK/Rendering/RayTracing/Testing/Cxx/TestOSPRayPass.cxx"
+					],
+					[
+						"vtkOSPRAYMA",
+						"VTK/Rendering/RayTracing/vtkOSPRayMaterialHelpers.cxx"
+					],
+					[
+						"QVTKOpen",
+						"VTK/GUISupport/Qt/QVTKOpenGLNativeWidget.h"
+					],
+					[
+						"pqMate",
+						"Qt/ApplicationComponents/Resources/UI/pqMaterialEditor.ui"
+					],
+					[
+						"vtkShaderBal",
+						"VTKExtensions/Rendering/vtkShaderBallScene.h"
+					],
+					[
+						"pqMateri",
+						"Qt/ApplicationComponents/pqMaterialEditor.cxx"
+					],
+					[
+						"vtkSMMa",
+						"Remoting/Views/vtkSMMaterialLibraryProxy.cxx"
+					],
+					[
+						"WriterFac",
+						"Remoting/ServerManager/vtkSMWriterFactory.h"
+					],
+					[
+						"pqSaveData",
+						"Qt/ApplicationComponents/pqSaveDataReaction.cxx"
+					],
+					[
+						"vtkOSprayMat",
+						"VTK/Rendering/RayTracing/vtkOSPRayMaterialLibrary.cxx"
+					],
+					[
+						"vtkSMMateri",
+						"Remoting/Views/vtkSMMaterialLibraryProxy.cxx"
+					],
+					[
+						"pqMateria",
+						"Qt/ApplicationComponents/pqMaterialEditor.cxx"
+					],
+					[
+						"vtkSMP",
+						"Remoting/ServerManager/vtkSMProxy.h"
+					],
+					[
+						"vtkSMSource",
+						"Remoting/ServerManager/vtkSMSourceProxy.h"
+					],
+					[
+						"vtkSMRepre",
+						"Remoting/Views/vtkSMRepresentationProxy.h"
+					],
+					[
+						"pqCamera",
+						"Qt/ApplicationComponents/pqCameraToolbar.cxx"
+					],
+					[
+						"vtkRenderWIndowInt",
+						"Rendering/Core/vtkRenderWindowInteractor3D.cxx"
+					],
+					[
+						"vtkOpenVRRenderW",
+						"Rendering/OpenVR/vtkOpenVRRenderWindowInteractor.h"
+					],
+					[
+						"vtkRenderWindowInteract",
+						"Rendering/Core/vtkRenderWindowInteractor.cxx"
+					],
+					[
+						"vtkRenderWIndowInte",
+						"Rendering/Core/vtkRenderWindowInteractor.cxx"
+					],
+					[
+						"vtkInteractorOb",
+						"Rendering/Core/vtkInteractorObserver.h"
+					],
+					[
+						"vtkInteractorStyle.",
+						"Rendering/Core/vtkInteractorStyle.cxx"
+					],
+					[
+						"TestPBR",
+						"Rendering/OpenGL2/Testing/Cxx/TestPBRAnisotropy.cxx"
+					],
+					[
+						"Renderer",
+						"Rendering/Core/vtkRenderer.cxx"
+					],
+					[
+						"vtkRenderer",
+						"Rendering/Core/vtkRenderer.cxx"
+					],
+					[
+						"vtkRenderWindowInte",
+						"Rendering/Core/vtkRenderWindowInteractor.h"
+					],
+					[
+						"vtkInteractorStyleCame",
+						"Interaction/Style/vtkInteractorStyleTrackballCamera.h"
+					],
+					[
+						"vtkInteractorStyleTra",
+						"Interaction/Style/vtkInteractorStyleTrackball.h"
+					],
+					[
+						"Multiblock",
+						"Clients/ParaView/Testing/XML/MultiBlockInspectorSelection.xml"
+					],
+					[
+						"t",
+						"~/dev/pv1/build/t.xml"
+					],
+					[
+						"vtkSMRenderV",
+						"Remoting/Views/vtkSMRenderViewProxy.cxx"
+					],
+					[
+						"vtkPVCompo",
+						"Remoting/Views/vtkPVCompositeRepresentation.h"
+					],
+					[
+						"pqAc",
+						"Qt/Components/pqActiveObjects.h"
+					],
+					[
+						"pqAct",
+						"Qt/Components/pqActiveObjects.cxx"
+					],
+					[
+						"pqRep",
+						"Qt/Core/pqRepresentation.h"
+					],
+					[
+						"pqDataR",
+						"Qt/Core/pqDataRepresentation.h"
+					],
+					[
+						"pqDataRp",
+						"Qt/Core/pqDataRepresentation.h"
+					],
+					[
+						"pqMutli",
+						"Qt/Components/pqMultiBlockInspectorWidget.cxx"
+					],
+					[
+						"views and",
+						"Remoting/Views/Resources/views_and_representations.xml"
+					],
+					[
+						"Zoom",
+						"Clients/ParaView/Testing/XML/ZoomClosest.xml"
+					],
+					[
+						"t.xm",
+						"~/dev/pv1/build/t.xml"
+					],
+					[
+						"pqProxyWid",
+						"Qt/Components/pqProxyWidget.h"
+					],
+					[
+						"pqBasic",
+						"ThirdParty/QtTesting/vtkqttesting/pqBasicWidgetEventPlayer.cxx"
+					],
+					[
+						"pqMulti",
+						"Qt/Components/pqMultiBlockInspectorWidget.h"
+					],
+					[
+						"pqEventPl",
+						"ThirdParty/QtTesting/vtkqttesting/pqEventPlayer.cxx"
+					],
+					[
+						"vtkSMRender",
+						"Remoting/Views/vtkSMRenderViewProxy.cxx"
+					],
+					[
+						"pqCameraT",
+						"Qt/ApplicationComponents/Resources/UI/pqCameraToolbar.ui"
+					],
+					[
+						".xml",
+						"Clients/ParaView/Testing/XML/Flow.xml"
+					],
+					[
+						"PBR xml",
+						"Clients/ParaView/Testing/XML/ClearCoatPBR.xml"
+					],
+					[
+						"PBR.xml",
+						"Clients/ParaView/Testing/XML/EdgeTintPBR.xml"
+					],
+					[
+						"pqFind",
+						"Qt/ApplicationComponents/pqFindDataWidget.h"
+					],
+					[
+						"pqActiveO",
+						"Qt/Components/pqActiveObjects.cxx"
+					],
+					[
+						"pqProxyWi",
+						"Qt/Components/pqProxyWidget.h"
+					],
+					[
+						"pqProx",
+						"Qt/Components/pqProxyWidget.h"
+					],
+					[
+						"pqActi",
+						"Qt/Components/pqActiveObjects.h"
+					],
+					[
+						"pqRepse",
+						"Qt/Core/pqRepresentation.h"
+					],
+					[
+						"pqActive",
+						"Qt/Components/pqActiveObjects.cxx"
+					],
+					[
+						"views and re",
+						"Remoting/Views/Resources/views_and_representations.xml"
+					],
+					[
+						"pqCam",
+						"Qt/ApplicationComponents/pqCameraToolbar.cxx"
+					],
+					[
+						"views and repre",
+						"Remoting/Views/Resources/views_and_representations.xml"
+					],
+					[
+						"vtkGeome",
+						"Remoting/Views/vtkGeometryRepresentation.h"
+					],
+					[
+						"pqDataRe",
+						"Qt/Core/pqDataRepresentation.h"
+					],
+					[
+						"vtkSMProx",
+						"Remoting/ServerManager/vtkSMProxy.h"
+					],
+					[
+						"pqCameraTo",
+						"Qt/ApplicationComponents/pqCameraToolbar.cxx"
+					],
+					[
+						"MultiblockInspe",
+						"Qt/Components/pqMultiBlockInspectorWidget.cxx"
+					],
+					[
+						"vtkPVGeome",
+						"VTKExtensions/FiltersRendering/vtkPVGeometryFilter.cxx"
+					],
+					[
+						"vtkAlgo",
+						"VTK/Common/ExecutionModel/vtkAlgorithm.h"
+					],
+					[
+						"vtkSMLink",
+						"Remoting/ServerManager/vtkSMLink.h"
+					],
+					[
+						"pqLinkM",
+						"Qt/Core/pqLinksModel.h"
+					],
+					[
+						"pqLink",
+						"Qt/Components/pqLinksManager.h"
+					],
+					[
+						"vtkPVIn",
+						"Remoting/Core/vtkPVInformation.h"
+					],
+					[
+						"vtkPVDataInfo",
+						"Remoting/Core/vtkPVDataInformation.h"
+					],
+					[
+						"vtkSMMaterial",
+						"Remoting/Views/vtkSMMaterialLibraryProxy.cxx"
+					],
+					[
+						"vtkCompositeDataDispl",
+						"VTK/Rendering/Core/vtkCompositeDataDisplayAttributes.cxx"
+					],
+					[
+						"vtkGeometryR",
+						"Remoting/Views/vtkGeometryRepresentation.h"
+					],
+					[
+						"vtkSetGe",
+						"VTK/Common/Core/vtkSetGet.h"
+					],
+					[
+						"vtkSMProp",
+						"Remoting/ServerManager/vtkSMPropertyHelper.cxx"
+					],
+					[
+						"vtkPVCompos",
+						"Remoting/Views/vtkPVCompositeRepresentation.h"
+					],
+					[
+						"vtkPVComp",
+						"Remoting/Views/vtkPVCompositeRepresentation.h"
+					],
+					[
+						"vtkGeometry",
+						"Remoting/Views/vtkGeometryRepresentation.h"
+					],
+					[
+						"vtkCompo",
+						"Remoting/Views/vtkCompositeRepresentation.h"
+					],
+					[
+						"vtkSetG",
+						"VTK/Common/Core/vtkSetGet.h"
+					],
+					[
+						"vtkPVCompositeRepresentation",
+						"Remoting/Views/vtkPVCompositeRepresentation.h"
+					],
+					[
+						"vtkPVDataRe",
+						"Remoting/Views/vtkPVDataRepresentation.h"
+					],
+					[
+						"vtkCompositeRep",
+						"Remoting/Views/vtkCompositeRepresentation.h"
+					],
+					[
+						"vtkSMPropertyHe",
+						"Remoting/ServerManager/vtkSMPropertyHelper.cxx"
+					],
+					[
+						"vtkSMPropertyH",
+						"Remoting/ServerManager/vtkSMPropertyHelper.cxx"
+					],
+					[
+						"pqMaterial",
+						"Qt/ApplicationComponents/pqMaterialAttributesDelegate.cxx"
+					],
+					[
+						"pqCameraToo",
+						"Qt/ApplicationComponents/pqCameraToolbar.cxx"
+					],
+					[
+						"pqReprese",
+						"Qt/Core/pqRepresentation.h"
+					],
+					[
+						"vtkSMProxy",
+						"Remoting/ServerManager/vtkSMProxy.h"
+					],
+					[
+						"vtkGeometr",
+						"Remoting/Views/vtkGeometryRepresentation.h"
+					],
+					[
+						"vtkPVInfor",
+						"Remoting/Core/vtkPVInformation.h"
+					],
+					[
+						"vtkPVData",
+						"Remoting/Core/vtkPVDataInformation.h"
+					],
+					[
+						"pqDataRep",
+						"Qt/Core/pqDataRepresentation.h"
+					],
+					[
+						"proxyWid",
+						"Qt/Components/pqProxyWidget.h"
+					],
+					[
+						"pqmultiblo",
+						"Qt/Components/Resources/UI/pqMultiBlockInspectorWidget.ui"
+					],
+					[
+						"pqMultib",
+						"Qt/Components/pqMultiBlockInspectorWidget.cxx"
+					],
+					[
+						"Multib",
+						"Clients/ParaView/Testing/XML/MultiBlockInspectorSelection.xml"
+					],
+					[
+						"vtkOSTrea",
+						"VTK/Common/Core/vtkOStreamWrapper.cxx"
+					],
+					[
+						"MultiblockIns",
+						"Clients/ParaView/Testing/XML/MultiBlockInspector.xml"
+					],
+					[
+						"vtkSMProxy.",
+						"Remoting/ServerManager/vtkSMProxy.h"
+					],
+					[
+						"vtkCompositeData",
+						"VTK/Rendering/Core/vtkCompositeDataDisplayAttributes.cxx"
+					],
+					[
+						"vtkPVDataI",
+						"Remoting/Core/vtkPVDataInformation.cxx"
+					],
+					[
+						"vtkSMRenderVi",
+						"Remoting/Views/vtkSMRenderViewProxy.cxx"
+					],
+					[
+						"vtkSMRepresen",
+						"Remoting/Views/vtkSMRepresentationProxy.h"
+					],
+					[
+						"vtkSMPV",
+						"Remoting/Views/vtkSMPVRepresentationProxy.h"
+					],
+					[
+						"vtkSMPrepresen",
+						"Remoting/Views/vtkSMPVRepresentationProxy.h"
+					],
+					[
+						"vtkSMVie",
+						"Remoting/Views/vtkSMViewProxy.h"
+					],
+					[
+						"pqRepre",
+						"Qt/Core/pqRepresentation.h"
+					],
+					[
+						"vtkGeo",
+						"Remoting/Views/vtkGeometryRepresentation.h"
+					],
+					[
+						"vtkDataRep",
+						"VTK/Views/Core/vtkDataRepresentation.h"
+					],
+					[
+						"vtkView",
+						"VTK/Views/Core/vtkView.h"
+					],
+					[
+						"pqRe",
+						"Qt/Core/pqRepresentation.h"
+					],
+					[
+						"vtkSMViewPr",
+						"Remoting/Views/vtkSMViewProxy.h"
+					],
+					[
+						"pqView",
+						"Qt/Core/pqView.h"
+					],
+					[
+						"pqDataAssemblyTreeModel",
+						"Qt/Components/pqDataAssemblyTreeModel.cxx"
+					],
+					[
+						"pqDataAssemblyPropertyWidget",
+						"Qt/ApplicationComponents/pqDataAssemblyPropertyWidget.h"
+					],
+					[
+						"vtkSMPropertyIte",
+						"Remoting/ServerManager/vtkSMPropertyIterator.cxx"
+					],
+					[
+						"vtkCompositeDataSet",
+						"VTK/Common/DataModel/vtkCompositeDataSet.h"
+					],
+					[
+						"vtkAlgorithmO",
+						"VTK/Common/ExecutionModel/vtkAlgorithmOutput.h"
+					],
+					[
+						"vtkCompositeDataAr",
+						"VTK/Rendering/Core/vtkCompositeDataDisplayAttributes.cxx"
+					],
+					[
+						"vtkCompositePol",
+						"VTK/Rendering/OpenGL2/vtkCompositePolyDataMapper2.cxx"
+					],
+					[
+						"vtkCompositePOl",
+						"VTK/Rendering/Core/vtkCompositePolyDataMapper.cxx"
+					],
+					[
+						"vtkSMSour",
+						"Remoting/ServerManager/vtkSMSourceProxy.h"
+					],
+					[
+						"pqPi",
+						"Qt/Core/pqPipelineSource.h"
+					],
+					[
+						"pqRepres",
+						"Qt/Core/pqRepresentation.h"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 56.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Rende",
+						"RenderWidget"
+					],
+					[
+						"Upd",
+						"UpdatePropertyInformation(…)\t  [2 overloads]"
+					],
+					[
+						"Update",
+						"UpdateVTKObjects()\t  void"
+					],
+					[
+						"vi",
+						"isVisible() const\t  bool"
+					],
+					[
+						"update",
+						"updateEnabledState()\t  void"
+					],
+					[
+						"pqMulti",
+						"pqMultiBlockInspectorWidget\t  Class"
+					],
+					[
+						"rend",
+						"renderViewEventually()\t  void"
+					],
+					[
+						"pqMul",
+						"pqMultiBlockInspectorWidget\t  Class"
+					],
+					[
+						"Q_S",
+						"Q_SIGNALS\t  Text"
+					],
+					[
+						"repr",
+						"pqDataRepresentation\t  Class"
+					],
+					[
+						"repre",
+						"representationChanged"
+					],
+					[
+						"vtkSMP",
+						"vtkSMPropertyHelper"
+					],
+					[
+						"visi",
+						"visibleDataBounds2\t  double [6]"
+					],
+					[
+						"GetVisi",
+						"GetVisibleDataBounds()\t  double *"
+					],
+					[
+						"Compute",
+						"ComputeVisibleDataBounds"
+					],
+					[
+						"vtkGeom",
+						"vtkGeometryRepresentation.h\"\t  File"
+					],
+					[
+						"vtkPVCom",
+						"vtkPVCompositeRepresentation.h\"\t  File"
+					],
+					[
+						"GetName",
+						"GetXMLName()\t  char *"
+					],
+					[
+						"vtkSMProper",
+						"vtkSMPropertyHelper\t  Class"
+					],
+					[
+						"GetREp",
+						"getRepresentation(int index) const\t  pqRepresentation *"
+					],
+					[
+						"getNum",
+						"getNumberOfOutputPorts() const\t  int"
+					],
+					[
+						"GetRe",
+						"getRepresentations(…)\t  [2 overloads]"
+					],
+					[
+						"getRep",
+						"getNumberOfVisibleRepresentations() const\t  int"
+					],
+					[
+						"Remo",
+						"RemoveAllVariables"
+					],
+					[
+						"index",
+						"QModelIndexList"
+					],
+					[
+						"pqCam",
+						"pqCameraToolbar\t  Class"
+					],
+					[
+						"gfV",
+						"gfVTK_"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/lfxpaul/dev/pv4/paraview/Remoting/Views/vtkPVRenderView.cxx",
+					"settings":
+					{
+						"buffer_size": 122948,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"wo",
+						"Word Wrap: Toggle"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"wor",
+						"Word Wrap: Toggle"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"syntax mark",
+						"Set Syntax: MultiMarkdown"
+					],
+					[
+						"mar",
+						"Set Syntax: Markdown"
+					],
+					[
+						"color",
+						"MarkdownEditing: Change color scheme..."
+					],
+					[
+						"w",
+						"Word Wrap: Toggle"
+					],
+					[
+						"synta",
+						"Set Syntax: C++"
+					],
+					[
+						"close",
+						"File: Close All"
+					],
+					[
+						"bla",
+						"Git Blame: Show All"
+					],
+					[
+						"blam",
+						"Git Blame: Show"
+					],
+					[
+						"markdow sy",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"markdown sy",
+						"Set Syntax: Markdown"
+					],
+					[
+						"markdown",
+						"MarkdownEditing: Open Journal"
+					],
+					[
+						"syntax mar",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/lfxpaul/dev/pv4/paraview"
+			],
+			"file_history":
+			[
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/vtkSMMaterialLibraryProxy.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Core/pqDataRepresentation.h",
+				"/home/lfxpaul/dev/pv1/paraview/Clients/ParaView/Testing/XML/MultiBlockInspector.xml",
+				"/home/lfxpaul/dev/pv1/paraview/Examples/Catalyst2/CxxMultimesh/catalyst_pipeline.py",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/vtkGeometryRepresentation.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Core/vtkPVDataInformation.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/vtkGeometryRepresentation.h",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/vtkSMPVRepresentationProxy.h",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/vtkSMRepresentationProxy.h",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/vtkSMRepresentationProxy.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/vtkPVDataRepresentation.h",
+				"/home/lfxpaul/dev/pv1/paraview/Plugins/EmbossingRepresentations/Representations/vtkBumpMapRepresentation.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/vtkSMChartSeriesSelectionDomain.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Plugins/LagrangianParticleTracker/pqIntegrationModelSurfaceHelperWidget.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Core/vtkPVDataInformation.h",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/ServerManager/vtkSMProxy.h",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Components/pqDataInformationModel.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/ApplicationComponents/pqApplyBehavior.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Core/pqServer.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Components/pqProxyInformationWidget.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Components/pqProxyInformationWidget.h",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Rendering/RayTracing/Testing/Cxx/TestCategoricalMultiBlock.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/Resources/views_and_representations.xml",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/vtkPVCompositeRepresentation.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/vtkCompositeRepresentation.h",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/Views/vtkCompositeRepresentation.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/ApplicationComponents/pqMaterialAttributesDelegate.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/ServerManager/vtkSMPropertyHelper.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/ServerManager/vtkSMPropertyHelper.h",
+				"/tmp/mozilla_lfxpaul0/vtkSPOSFix.txx",
+				"/home/lfxpaul/dev/pv1/paraview/Clients/ParaView/Testing/XML/MultiBlockInspectorSelection.xml",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Interaction/Widgets/Testing/Cxx/TestCameraWidget.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Core/pqPipelineSource.h",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Core/pqPipelineSource.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/ServerManager/vtkSMSourceProxy.h",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Rendering/Core/vtkCompositePolyDataMapper.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Rendering/OpenGL2/vtkCompositePolyDataMapper2.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Common/DataModel/vtkCompositeDataSet.h",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Rendering/Core/vtkCompositeDataDisplayAttributes.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Rendering/Core/vtkCompositeDataDisplayAttributes.h",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Common/ExecutionModel/vtkAlgorithm.h",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Common/ExecutionModel/vtkAlgorithmOutput.h",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Rendering/OpenGL2/vtkCompositePolyDataMapper2.h",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Components/Resources/UI/pqMultiBlockInspectorWidget.ui",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Components/pqMultiBlockInspectorWidget.h",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Components/pqMultiBlockInspectorWidget.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Components/pqDataAssemblyTreeModel.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Components/pqDataAssemblyTreeModel.h",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/ApplicationComponents/pqDataAssemblyPropertyWidget.h",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Components/pqProxyWidget.h",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Components/pqProxyWidget.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/ServerManager/vtkSMPropertyIterator.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Remoting/ServerManager/vtkSMPropertyIterator.h",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Core/pqRepresentation.h",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/ApplicationComponents/pqCameraToolbar.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Core/pqRepresentation.cxx",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Views/Core/vtkView.h",
+				"/home/lfxpaul/dev/pv1/paraview/VTK/Views/Core/vtkDataRepresentation.h",
+				"/home/lfxpaul/dev/pv1/paraview/Qt/Core/pqView.cxx",
+				"/home/lfxpaul/dev/notes/CEA.md",
+				"/home/lfxpaul/dev/pv3/paraview/VTK/Common/ExecutionModel/vtkStreamingDemandDrivenPipeline.cxx",
+				"/home/lfxpaul/dev/pv3/paraview/VTK/Common/ExecutionModel/vtkStreamingDemandDrivenPipeline.h",
+				"/home/lfxpaul/dev/pv3/paraview/Qt/Widgets/pqLineEdit.h",
+				"/home/lfxpaul/dev/pv3/paraview/VTK/Interaction/Widgets/Testing/Cxx/TestResliceCursorWidget3.cxx",
+				"/home/lfxpaul/dev/pv3/paraview/VTK/Rendering/RayTracing/Testing/Cxx/TestOSPRayStereo.cxx",
+				"/home/lfxpaul/dev/pv3/paraview/VTK/Rendering/OpenGL2/vtkOpenGLRenderWindow.cxx",
+				"/home/lfxpaul/dev/pv3/paraview/VTK/Rendering/Core/vtkRenderWindow.cxx",
+				"/home/lfxpaul/dev/pv3/paraview/Remoting/ServerManager/vtkSMBoundsDomain.h",
+				"/home/lfxpaul/dev/pv3/paraview/VTK/Common/Core/vtkInformationKey.h",
+				"/home/lfxpaul/dev/pv3/paraview/VTK/Common/ExecutionModel/vtkAlgorithm.h",
+				"/home/lfxpaul/dev/pv3/paraview/VTK/Common/ExecutionModel/vtkAlgorithm.cxx",
+				"/home/lfxpaul/dev/pv3/paraview/Clients/ParaView/Testing/Python/TestStereoSaveScreenshot.py",
+				"/home/lfxpaul/dev/pv3/paraview/VTK/Rendering/Core/vtkStereoCompositor.h",
+				"/home/lfxpaul/dev/pv3/paraview/Qt/Components/pqDoubleVectorPropertyWidget.cxx",
+				"/home/lfxpaul/dev/pv3/paraview/Remoting/Views/vtkSMMaterialProxy.cxx",
+				"/home/lfxpaul/dev/pv3/paraview/Remoting/Views/vtkSMMaterialProxy.h",
+				"/home/lfxpaul/dev/data/pbr/dirToAngle.py",
+				"/home/lfxpaul/dev/notes/zSpace/HomePage.md"
+			],
+			"find":
+			{
+				"height": 52.0
+			},
+			"find_in_files":
+			{
+				"height": 135.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"SetProjection",
+					"GammaCorrectOn",
+					"<<<<"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/lfxpaul/dev/pv4/paraview"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/lfxpaul/dev/pv4/paraview/Remoting/Views/vtkPVRenderView.cxx",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 122948,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										18593,
+										18593
+									]
+								],
+								"settings":
+								{
+									"auto_complete_triggers":
+									[
+										{
+											"characters": "<",
+											"selector": "text.html"
+										},
+										{
+											"characters": ".<>:\"/",
+											"selector": "source.c++, source.cxx"
+										}
+									],
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+											"1":
+											[
+												18627,
+												18628
+											]
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"lsp_active": true,
+									"lsp_language":
+									{
+										"clangd": "cpp"
+									},
+									"show_definitions": false,
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 7352.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 50.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.diagnostics":
+			{
+				"height": 185.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,0,34,1918,1051,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"vtkPVRende",
+						"Remoting/Views/vtkPVRenderView.cxx"
+					],
+					[
+						"vtkOsprayRender",
+						"VTK/Rendering/RayTracing/vtkOSPRayRendererNode.cxx"
+					],
+					[
+						"TestOsprayP",
+						"VTK/Rendering/RayTracing/Testing/Cxx/TestOSPRayPass.cxx"
+					],
+					[
+						"vtkOSPRAYMA",
+						"VTK/Rendering/RayTracing/vtkOSPRayMaterialHelpers.cxx"
+					],
+					[
+						"QVTKOpen",
+						"VTK/GUISupport/Qt/QVTKOpenGLNativeWidget.h"
+					],
+					[
+						"pqMate",
+						"Qt/ApplicationComponents/Resources/UI/pqMaterialEditor.ui"
+					],
+					[
+						"vtkShaderBal",
+						"VTKExtensions/Rendering/vtkShaderBallScene.h"
+					],
+					[
+						"pqMateri",
+						"Qt/ApplicationComponents/pqMaterialEditor.cxx"
+					],
+					[
+						"vtkSMMa",
+						"Remoting/Views/vtkSMMaterialLibraryProxy.cxx"
+					],
+					[
+						"WriterFac",
+						"Remoting/ServerManager/vtkSMWriterFactory.h"
+					],
+					[
+						"pqSaveData",
+						"Qt/ApplicationComponents/pqSaveDataReaction.cxx"
+					],
+					[
+						"vtkOSprayMat",
+						"VTK/Rendering/RayTracing/vtkOSPRayMaterialLibrary.cxx"
+					],
+					[
+						"vtkSMMateri",
+						"Remoting/Views/vtkSMMaterialLibraryProxy.cxx"
+					],
+					[
+						"pqMateria",
+						"Qt/ApplicationComponents/pqMaterialEditor.cxx"
+					],
+					[
+						"vtkSMP",
+						"Remoting/ServerManager/vtkSMProxy.h"
+					],
+					[
+						"vtkSMSource",
+						"Remoting/ServerManager/vtkSMSourceProxy.h"
+					],
+					[
+						"vtkSMRepre",
+						"Remoting/Views/vtkSMRepresentationProxy.h"
+					],
+					[
+						"pqCamera",
+						"Qt/ApplicationComponents/pqCameraToolbar.cxx"
+					],
+					[
+						"vtkRenderWIndowInt",
+						"Rendering/Core/vtkRenderWindowInteractor3D.cxx"
+					],
+					[
+						"vtkOpenVRRenderW",
+						"Rendering/OpenVR/vtkOpenVRRenderWindowInteractor.h"
+					],
+					[
+						"vtkRenderWindowInteract",
+						"Rendering/Core/vtkRenderWindowInteractor.cxx"
+					],
+					[
+						"vtkRenderWIndowInte",
+						"Rendering/Core/vtkRenderWindowInteractor.cxx"
+					],
+					[
+						"vtkInteractorOb",
+						"Rendering/Core/vtkInteractorObserver.h"
+					],
+					[
+						"vtkInteractorStyle.",
+						"Rendering/Core/vtkInteractorStyle.cxx"
+					],
+					[
+						"TestPBR",
+						"Rendering/OpenGL2/Testing/Cxx/TestPBRAnisotropy.cxx"
+					],
+					[
+						"Renderer",
+						"Rendering/Core/vtkRenderer.cxx"
+					],
+					[
+						"vtkRenderer",
+						"Rendering/Core/vtkRenderer.cxx"
+					],
+					[
+						"vtkRenderWindowInte",
+						"Rendering/Core/vtkRenderWindowInteractor.h"
+					],
+					[
+						"vtkInteractorStyleCame",
+						"Interaction/Style/vtkInteractorStyleTrackballCamera.h"
+					],
+					[
+						"vtkInteractorStyleTra",
+						"Interaction/Style/vtkInteractorStyleTrackball.h"
+					],
+					[
+						"Multiblock",
+						"Clients/ParaView/Testing/XML/MultiBlockInspectorSelection.xml"
+					],
+					[
+						"t",
+						"~/dev/pv1/build/t.xml"
+					],
+					[
+						"vtkSMRenderV",
+						"Remoting/Views/vtkSMRenderViewProxy.cxx"
+					],
+					[
+						"vtkPVCompo",
+						"Remoting/Views/vtkPVCompositeRepresentation.h"
+					],
+					[
+						"pqAc",
+						"Qt/Components/pqActiveObjects.h"
+					],
+					[
+						"pqAct",
+						"Qt/Components/pqActiveObjects.cxx"
+					],
+					[
+						"pqRep",
+						"Qt/Core/pqRepresentation.h"
+					],
+					[
+						"pqDataR",
+						"Qt/Core/pqDataRepresentation.h"
+					],
+					[
+						"pqDataRp",
+						"Qt/Core/pqDataRepresentation.h"
+					],
+					[
+						"pqMutli",
+						"Qt/Components/pqMultiBlockInspectorWidget.cxx"
+					],
+					[
+						"views and",
+						"Remoting/Views/Resources/views_and_representations.xml"
+					],
+					[
+						"Zoom",
+						"Clients/ParaView/Testing/XML/ZoomClosest.xml"
+					],
+					[
+						"t.xm",
+						"~/dev/pv1/build/t.xml"
+					],
+					[
+						"pqProxyWid",
+						"Qt/Components/pqProxyWidget.h"
+					],
+					[
+						"pqBasic",
+						"ThirdParty/QtTesting/vtkqttesting/pqBasicWidgetEventPlayer.cxx"
+					],
+					[
+						"pqMulti",
+						"Qt/Components/pqMultiBlockInspectorWidget.h"
+					],
+					[
+						"pqEventPl",
+						"ThirdParty/QtTesting/vtkqttesting/pqEventPlayer.cxx"
+					],
+					[
+						"vtkSMRender",
+						"Remoting/Views/vtkSMRenderViewProxy.cxx"
+					],
+					[
+						"pqCameraT",
+						"Qt/ApplicationComponents/Resources/UI/pqCameraToolbar.ui"
+					],
+					[
+						".xml",
+						"Clients/ParaView/Testing/XML/Flow.xml"
+					],
+					[
+						"PBR xml",
+						"Clients/ParaView/Testing/XML/ClearCoatPBR.xml"
+					],
+					[
+						"PBR.xml",
+						"Clients/ParaView/Testing/XML/EdgeTintPBR.xml"
+					],
+					[
+						"pqFind",
+						"Qt/ApplicationComponents/pqFindDataWidget.h"
+					],
+					[
+						"pqActiveO",
+						"Qt/Components/pqActiveObjects.cxx"
+					],
+					[
+						"pqProxyWi",
+						"Qt/Components/pqProxyWidget.h"
+					],
+					[
+						"pqProx",
+						"Qt/Components/pqProxyWidget.h"
+					],
+					[
+						"pqActi",
+						"Qt/Components/pqActiveObjects.h"
+					],
+					[
+						"pqRepse",
+						"Qt/Core/pqRepresentation.h"
+					],
+					[
+						"pqActive",
+						"Qt/Components/pqActiveObjects.cxx"
+					],
+					[
+						"views and re",
+						"Remoting/Views/Resources/views_and_representations.xml"
+					],
+					[
+						"pqCam",
+						"Qt/ApplicationComponents/pqCameraToolbar.cxx"
+					],
+					[
+						"views and repre",
+						"Remoting/Views/Resources/views_and_representations.xml"
+					],
+					[
+						"vtkGeome",
+						"Remoting/Views/vtkGeometryRepresentation.h"
+					],
+					[
+						"pqDataRe",
+						"Qt/Core/pqDataRepresentation.h"
+					],
+					[
+						"vtkSMProx",
+						"Remoting/ServerManager/vtkSMProxy.h"
+					],
+					[
+						"pqCameraTo",
+						"Qt/ApplicationComponents/pqCameraToolbar.cxx"
+					],
+					[
+						"MultiblockInspe",
+						"Qt/Components/pqMultiBlockInspectorWidget.cxx"
+					],
+					[
+						"vtkPVGeome",
+						"VTKExtensions/FiltersRendering/vtkPVGeometryFilter.cxx"
+					],
+					[
+						"vtkAlgo",
+						"VTK/Common/ExecutionModel/vtkAlgorithm.h"
+					],
+					[
+						"vtkSMLink",
+						"Remoting/ServerManager/vtkSMLink.h"
+					],
+					[
+						"pqLinkM",
+						"Qt/Core/pqLinksModel.h"
+					],
+					[
+						"pqLink",
+						"Qt/Components/pqLinksManager.h"
+					],
+					[
+						"vtkPVIn",
+						"Remoting/Core/vtkPVInformation.h"
+					],
+					[
+						"vtkPVDataInfo",
+						"Remoting/Core/vtkPVDataInformation.h"
+					],
+					[
+						"vtkSMMaterial",
+						"Remoting/Views/vtkSMMaterialLibraryProxy.cxx"
+					],
+					[
+						"vtkCompositeDataDispl",
+						"VTK/Rendering/Core/vtkCompositeDataDisplayAttributes.cxx"
+					],
+					[
+						"vtkGeometryR",
+						"Remoting/Views/vtkGeometryRepresentation.h"
+					],
+					[
+						"vtkSetGe",
+						"VTK/Common/Core/vtkSetGet.h"
+					],
+					[
+						"vtkSMProp",
+						"Remoting/ServerManager/vtkSMPropertyHelper.cxx"
+					],
+					[
+						"vtkPVCompos",
+						"Remoting/Views/vtkPVCompositeRepresentation.h"
+					],
+					[
+						"vtkPVComp",
+						"Remoting/Views/vtkPVCompositeRepresentation.h"
+					],
+					[
+						"vtkGeometry",
+						"Remoting/Views/vtkGeometryRepresentation.h"
+					],
+					[
+						"vtkCompo",
+						"Remoting/Views/vtkCompositeRepresentation.h"
+					],
+					[
+						"vtkSetG",
+						"VTK/Common/Core/vtkSetGet.h"
+					],
+					[
+						"vtkPVCompositeRepresentation",
+						"Remoting/Views/vtkPVCompositeRepresentation.h"
+					],
+					[
+						"vtkPVDataRe",
+						"Remoting/Views/vtkPVDataRepresentation.h"
+					],
+					[
+						"vtkCompositeRep",
+						"Remoting/Views/vtkCompositeRepresentation.h"
+					],
+					[
+						"vtkSMPropertyHe",
+						"Remoting/ServerManager/vtkSMPropertyHelper.cxx"
+					],
+					[
+						"vtkSMPropertyH",
+						"Remoting/ServerManager/vtkSMPropertyHelper.cxx"
+					],
+					[
+						"pqMaterial",
+						"Qt/ApplicationComponents/pqMaterialAttributesDelegate.cxx"
+					],
+					[
+						"pqCameraToo",
+						"Qt/ApplicationComponents/pqCameraToolbar.cxx"
+					],
+					[
+						"pqReprese",
+						"Qt/Core/pqRepresentation.h"
+					],
+					[
+						"vtkSMProxy",
+						"Remoting/ServerManager/vtkSMProxy.h"
+					],
+					[
+						"vtkGeometr",
+						"Remoting/Views/vtkGeometryRepresentation.h"
+					],
+					[
+						"vtkPVInfor",
+						"Remoting/Core/vtkPVInformation.h"
+					],
+					[
+						"vtkPVData",
+						"Remoting/Core/vtkPVDataInformation.h"
+					],
+					[
+						"pqDataRep",
+						"Qt/Core/pqDataRepresentation.h"
+					],
+					[
+						"proxyWid",
+						"Qt/Components/pqProxyWidget.h"
+					],
+					[
+						"pqmultiblo",
+						"Qt/Components/Resources/UI/pqMultiBlockInspectorWidget.ui"
+					],
+					[
+						"pqMultib",
+						"Qt/Components/pqMultiBlockInspectorWidget.cxx"
+					],
+					[
+						"Multib",
+						"Clients/ParaView/Testing/XML/MultiBlockInspectorSelection.xml"
+					],
+					[
+						"vtkOSTrea",
+						"VTK/Common/Core/vtkOStreamWrapper.cxx"
+					],
+					[
+						"MultiblockIns",
+						"Clients/ParaView/Testing/XML/MultiBlockInspector.xml"
+					],
+					[
+						"vtkSMProxy.",
+						"Remoting/ServerManager/vtkSMProxy.h"
+					],
+					[
+						"vtkCompositeData",
+						"VTK/Rendering/Core/vtkCompositeDataDisplayAttributes.cxx"
+					],
+					[
+						"vtkPVDataI",
+						"Remoting/Core/vtkPVDataInformation.cxx"
+					],
+					[
+						"vtkSMRenderVi",
+						"Remoting/Views/vtkSMRenderViewProxy.cxx"
+					],
+					[
+						"vtkSMRepresen",
+						"Remoting/Views/vtkSMRepresentationProxy.h"
+					],
+					[
+						"vtkSMPV",
+						"Remoting/Views/vtkSMPVRepresentationProxy.h"
+					],
+					[
+						"vtkSMPrepresen",
+						"Remoting/Views/vtkSMPVRepresentationProxy.h"
+					],
+					[
+						"vtkSMVie",
+						"Remoting/Views/vtkSMViewProxy.h"
+					],
+					[
+						"pqRepre",
+						"Qt/Core/pqRepresentation.h"
+					],
+					[
+						"vtkGeo",
+						"Remoting/Views/vtkGeometryRepresentation.h"
+					],
+					[
+						"vtkDataRep",
+						"VTK/Views/Core/vtkDataRepresentation.h"
+					],
+					[
+						"vtkView",
+						"VTK/Views/Core/vtkView.h"
+					],
+					[
+						"pqRe",
+						"Qt/Core/pqRepresentation.h"
+					],
+					[
+						"vtkSMViewPr",
+						"Remoting/Views/vtkSMViewProxy.h"
+					],
+					[
+						"pqView",
+						"Qt/Core/pqView.h"
+					],
+					[
+						"pqDataAssemblyTreeModel",
+						"Qt/Components/pqDataAssemblyTreeModel.cxx"
+					],
+					[
+						"pqDataAssemblyPropertyWidget",
+						"Qt/ApplicationComponents/pqDataAssemblyPropertyWidget.h"
+					],
+					[
+						"vtkSMPropertyIte",
+						"Remoting/ServerManager/vtkSMPropertyIterator.cxx"
+					],
+					[
+						"vtkCompositeDataSet",
+						"VTK/Common/DataModel/vtkCompositeDataSet.h"
+					],
+					[
+						"vtkAlgorithmO",
+						"VTK/Common/ExecutionModel/vtkAlgorithmOutput.h"
+					],
+					[
+						"vtkCompositeDataAr",
+						"VTK/Rendering/Core/vtkCompositeDataDisplayAttributes.cxx"
+					],
+					[
+						"vtkCompositePol",
+						"VTK/Rendering/OpenGL2/vtkCompositePolyDataMapper2.cxx"
+					],
+					[
+						"vtkCompositePOl",
+						"VTK/Rendering/Core/vtkCompositePolyDataMapper.cxx"
+					],
+					[
+						"vtkSMSour",
+						"Remoting/ServerManager/vtkSMSourceProxy.h"
+					],
+					[
+						"pqPi",
+						"Qt/Core/pqPipelineSource.h"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 56.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 60,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
